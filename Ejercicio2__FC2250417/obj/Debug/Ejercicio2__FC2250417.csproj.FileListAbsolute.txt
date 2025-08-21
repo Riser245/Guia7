@@ -1,0 +1,12 @@
+C:\Users\usuario\Desktop\SEMANA 6\Ejercicio2__FC2250417\bin\Debug\Ejercicio2__FC2250417.exe.config
+C:\Users\usuario\Desktop\SEMANA 6\Ejercicio2__FC2250417\bin\Debug\Ejercicio2__FC2250417.exe
+C:\Users\usuario\Desktop\SEMANA 6\Ejercicio2__FC2250417\bin\Debug\Ejercicio2__FC2250417.pdb
+C:\Users\usuario\Desktop\SEMANA 6\Ejercicio2__FC2250417\obj\Debug\Ejercicio2__FC2250417.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SEMANA 6\Ejercicio2__FC2250417\obj\Debug\Ejercicio2__FC2250417.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\SEMANA 6\Ejercicio2__FC2250417\obj\Debug\Ejercicio2__FC2250417.Properties.Resources.resources
+C:\Users\usuario\Desktop\SEMANA 6\Ejercicio2__FC2250417\obj\Debug\Ejercicio2__FC2250417.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\SEMANA 6\Ejercicio2__FC2250417\obj\Debug\Ejercicio2__FC2250417.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SEMANA 6\Ejercicio2__FC2250417\obj\Debug\Ejercicio2__FC2250417.exe
+C:\Users\usuario\Desktop\SEMANA 6\Ejercicio2__FC2250417\obj\Debug\Ejercicio2__FC2250417.pdb
+C:\Users\usuario\Desktop\SEMANA 6\Ejercicio2__FC2250417\obj\Debug\Ejercicio2__FC2250417.FrmBase.resources
+C:\Users\usuario\Desktop\SEMANA 6\Ejercicio2__FC2250417\obj\Debug\Ejercicio2__FC2250417.FrmRegistro.resources
